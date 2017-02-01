@@ -12,7 +12,7 @@
 
 
     <TextView
-        android:text="Test Text"
+        android:text="Test Text again"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
